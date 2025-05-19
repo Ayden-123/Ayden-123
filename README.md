@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**Ayden-123/Ayden-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🛠️ Developer, Freelancer, Indiemaker.
+🌱 Focus on GenAI, productivity and minimalist lifestyle.
+📫 How to reach me: Twitter, Email
+## 🎨 SEO Projects
+(image to any)[https://imagetoany.com/]
+(image to black and white)[https://imagetoblackandwhite.org/]
+(character headcanon generator)[https://characterheadcanongenerator.online/]
+(calligraphy font generator)[https://calligraphyfontgenerator.org/]
+(image to image ai)[https://imgtoimgai.org/]
