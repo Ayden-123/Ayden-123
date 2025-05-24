@@ -15,4 +15,6 @@
 
 [calligraphy font generator](https://calligraphyfontgenerator.org/): #1 Free Online Tool for Beautiful Calligraphy Fonts
 
+[cursive font generator](https://calligraphyfontgenerator.org/cursive-font-generator): Best Online Cursive Generator for Beautiful Cursive Text and Fonts
+
 [image to image ai](https://imgtoimgai.org/): Image to Image AI
